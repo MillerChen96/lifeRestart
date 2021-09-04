@@ -1,3 +1,3 @@
-# Life Restart
+# 屁酋模拟器
 
-やり直すんだ。そして、次はうまくやる。[RESTART](view/index.html)
+屁酋模拟器。[RESTART](view/index.html)
